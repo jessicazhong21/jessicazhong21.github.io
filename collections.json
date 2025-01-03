@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Nature Collection",
+    "description": "A selection of breathtaking nature photography.",
+    "images": [
+      {
+        "image": "images/1.jpg",
+        "title": "Forest",
+        "description": "A serene view of a dense forest."
+      },
+      {
+        "image": "images/2.jpg",
+        "title": "Mountain",
+        "description": "A majestic mountain under the clouds."
+      }
+    ]
+  },
+  {
+    "title": "Urban Collection",
+    "description": "Stunning captures of urban life and architecture.",
+    "images": [
+      {
+        "image": "images/2.jpg",
+        "title": "Cityscape",
+        "description": "A bustling city at sunset."
+      },
+      {
+        "image": "images/3.jpg",
+        "title": "Street",
+        "description": "An empty street with vintage vibes."
+      }
+    ]
+  }
+]
